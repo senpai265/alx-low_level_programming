@@ -1,1 +1,1 @@
-Directory containig low level programming files
+Directory for the alx-low_level_programming project
