@@ -2,7 +2,6 @@
 #include "3-calc.h"
 
 /**
- *
  * op_add - function adds two integers
  * @a: integer
  * @b: integer
