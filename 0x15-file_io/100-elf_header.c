@@ -101,6 +101,7 @@ void version(unsigned char *e_ident)
  * @e_ident: the ELF struct
  * return: no return is a void func.
  */
+
 void osabi(unsigned char *e_ident)
 {
 	printf("  OS/ABI:                            ");
